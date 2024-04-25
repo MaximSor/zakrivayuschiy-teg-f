@@ -24,8 +24,8 @@
   align-items: center;
   color: var(--accent-color);
   background-image: var(--bg-gradient);
-  background-attachment: fixed;
   object-fit: cover;
+  background-attachment: fixed;
 }
 
 .header {
