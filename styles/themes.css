@@ -13,6 +13,8 @@
     repeating-linear-gradient(#007f0c, #004306);
   --sparks-color: #ff0000;
   --button-color-click: #00cc14;
+  --title-variation-settings: 785;
+  --text-variation-settings: 465;
 }
 
 :root.theme-light {
@@ -23,6 +25,8 @@
     repeating-linear-gradient(#e7e7e7, #1a1a1a);
   --sparks-color: #ff0000;
   --button-color-click: white;
+  --title-variation-settings: 700;
+  --text-variation-settings: 400;
 }
 
 @media (prefers-color-scheme: light) {
@@ -34,5 +38,7 @@
       repeating-linear-gradient(#e7e7e7, #1a1a1a);
     --sparks-color: #ff0000;
     --button-color-click: white;
+    --title-variation-settings: 700;
+    --text-variation-settings: 400;
   }
 }
