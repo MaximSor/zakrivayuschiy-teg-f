@@ -1,1 +1,0 @@
-https://github.com/MaximSor/zakrivayuschiy-teg-f.git
