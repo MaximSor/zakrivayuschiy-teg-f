@@ -1,1 +1,14 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+
+:root {
+  --font-main: "PressStart2P-Regular", sans-serif;
+  --font-accent: "Inter-Variable", sans-serif;
+  --bgcolor: black;
+  --accent-color: #00cc14;
+  --bg-gradient: repeating-linear-gradient(transparent 0 2px, #000 2px 4px),
+    repeating-linear-gradient(-90deg, transparent 0 2px, #000 2px 4px),
+    repeating-linear-gradient(#007f0c, #004306);
+  --sparks-color: #ff0000;
+  --heart-set: transparent;
+  --button-color-click: #00cc14;
+}
